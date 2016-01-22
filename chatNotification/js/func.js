@@ -1,5 +1,3 @@
-var lis = document.querySelectorAll('.twitt li');
-
 
     $( "#button" ).each(function() {
         $(this).bind("click", function () {
